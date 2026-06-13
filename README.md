@@ -24,7 +24,7 @@ Every answer is written **exclusively in SQL** — no Python, no BI tool, no sho
 
 ## 📊 Schema
 
-![Olist ERD](schema/erd.png)
+![Olist ERD]
 
 > 9 tables · ~100,000 orders · Brazilian e-commerce data from 2016–2018
 

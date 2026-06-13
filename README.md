@@ -32,14 +32,6 @@ Everything is written in a single well-commented SQL file, structured with CTEs 
 
 ---
 
-## 📊 Database Schema
-
-![Olist ERD](schema/erd.png)
-
-> 9 tables · ~100,000 orders · 2016–2018
-
----
-
 ## 🗂️ Dataset
 
 | | |
